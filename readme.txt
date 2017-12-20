@@ -1,0 +1,1 @@
+Snowman World is a project built using the fundementals of OpenGL learned in my Computer Graphics Course. The project implements Transformations, Lighting, Mathematical Computations, Animations, Keyboard Commands and more. 
